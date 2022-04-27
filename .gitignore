@@ -1,5 +1,8 @@
 /@debug/*
 /@test/*
+/@exe/*
+tool_creat_exe -with IO.py
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

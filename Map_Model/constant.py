@@ -158,6 +158,9 @@ class RiceTime:
     )
     rice_Point_tuple = (
         JuYuan_canteen,
+        LiuYuan_canteen,
+        HuiYuan_canteen,
+        MeiYuan_canteen,
     )
     rice_Point_value = -300
 
